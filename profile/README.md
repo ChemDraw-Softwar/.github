@@ -31,9 +31,7 @@ With **ChemDraw**, you gain clarity, reduce drawing errors, and produce publicat
 
 ## Overview
 
-![chemdraw-dashboard](https://revvitysignals.com/sites/default/files/ChemDraw-Product-Vignette-1%201%20%281%29.png)
-
-*Example: Main canvas of **ChemDraw** showing a reaction mechanism with curved arrows and stereochemistry.*
+![chemdraw-dashboard(https://chemistrydocs.com/wp-content/uploads/2021/05/chemdraw-ultra-12-1024x285.jpg)
 
 ---
 
