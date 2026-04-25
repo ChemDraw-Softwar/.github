@@ -65,7 +65,6 @@ With **ChemDraw**, you gain clarity, reduce drawing errors, and produce publicat
 | Storage | 200 MB free space | 500 MB free space |
 | Network | 3G / Wi‑Fi | Broadband connection |
 
-*Note: **ChemDraw** works offline for drawing; cloud features sync when connection returns.*
 
 ---
 
